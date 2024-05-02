@@ -29,6 +29,7 @@ Results
 The trained model predicts the stock prices for January 2017 and visualizes them against the actual stock prices to evaluate the model's performance.
 
 ![Graph of Stock Prices](graph.png)
+![Rough Sketch of the interactive visualization](IMG_0713.jpg)
 
 
 Contributing
