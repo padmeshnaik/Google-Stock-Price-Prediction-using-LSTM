@@ -3,6 +3,7 @@
 ## Overview
 This project uses a Recurrent Neural Network (RNN) to predict the stock prices of Google based on historical data. The model is built using Keras, a high-level neural networks API, capable of running on top of TensorFlow, CNTK, or Theano.
 
+
 ## Project Structure
 - `Google_Stock_Price_Train.csv`: Training data containing the stock prices from 2012 to 2016.
 - `Google_Stock_Price_Test.csv`: Test data containing the stock prices for January 2017.
@@ -18,7 +19,7 @@ Before running this project, you need to install the following Python packages:
 - `scikit-learn`
 
 You can install these packages using pip:
-```bash
+
 pip install numpy matplotlib pandas keras tensorflow scikit-learn
 
 
@@ -29,7 +30,6 @@ Results
 The trained model predicts the stock prices for January 2017 and visualizes them against the actual stock prices to evaluate the model's performance.
 
 ![Graph of Stock Prices](graph.png)
-![Rough Sketch of the interactive visualization](IMG_0713.jpg)
 
 
 Contributing
